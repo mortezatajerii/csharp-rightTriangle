@@ -8,7 +8,7 @@
     <div>
       <a href="https://mycareerwise.com/storage/editor/images/Hollow%20Right%20Star%20Triangle.png">
         <img
-          width="200px"
+          width="15%"
           align="right"
           src="https://mycareerwise.com/storage/editor/images/Hollow%20Right%20Star%20Triangle.png"
         />
